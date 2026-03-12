@@ -1,0 +1,6 @@
+# Whisper CCSTT — dependencias
+openai-whisper>=20231117
+# ffmpeg debe estar instalado en el sistema:
+#   macOS:   brew install ffmpeg
+#   Ubuntu:  sudo apt install ffmpeg
+#   Windows: https://ffmpeg.org/download.html
